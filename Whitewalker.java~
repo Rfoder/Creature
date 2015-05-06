@@ -1,0 +1,20 @@
+/**
+ * Human is a basic creature 
+ * 
+ * @author Robert Foder
+ * @version April 20, 2015
+ */
+public class Sellsword extends Creature
+{
+   Sellsword(){
+       super();
+    }
+    
+   Sellsword(int str,int hp){
+     
+    super(hp, str);
+    hp = 100;
+    str = 100;
+    
+    }
+}

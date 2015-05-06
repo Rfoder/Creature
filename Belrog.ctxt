@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Belrog()
+comment1.params=str\ hp
+comment1.target=Belrog(int,\ int)
+comment2.params=
+comment2.target=int\ attack()
+comment3.params=damage
+comment3.target=void\ takeDamage(int)
+comment4.params=
+comment4.target=void\ Belrogname()
+numComments=5

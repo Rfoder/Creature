@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CyberDemon()
+comment1.params=str\ hp
+comment1.target=CyberDemon(int,\ int)
+comment2.params=damage
+comment2.target=void\ takeDamage(int)
+comment3.params=
+comment3.target=int\ attack()
+comment4.params=
+comment4.target=void\ Cybername()
+numComments=5

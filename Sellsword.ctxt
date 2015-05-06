@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sellsword()
+comment1.params=str\ hp
+comment1.target=Sellsword(int,\ int)
+comment2.params=
+comment2.target=void\ Sellswordname()
+numComments=3

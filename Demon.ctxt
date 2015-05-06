@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Demon()
+comment1.params=str\ hp
+comment1.target=Demon(int,\ int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=
+comment2.target=int\ attack()
+numComments=3

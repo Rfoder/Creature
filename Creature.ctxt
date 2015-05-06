@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Creature()
+comment0.text=\r\n\ default\ constructor\ with\ base\ of\ 12\ health\ and\ s\r\n
+comment1.params=h\ s
+comment1.target=Creature(int,\ int)
+comment1.text=\r\n\ \r\nCreature\ recives\ h\ and\ s\ to\ indicate\ max\ health\ and\ strength\r\n\ \r\n@param\ h\ intial\ hit\ points\ \r\n\ @param\ s\ used\ to\ detirman\ damage\r\n
+comment2.params=
+comment2.target=int\ attack()
+comment2.text=\r\n\ attack\ causes\ 1-strength\ point(s)\ of\ damage\r\n\ \r\n\ @return\ damage\ value\ caused\ by\ attack\r\n
+comment3.params=damage
+comment3.target=void\ takeDamage(int)
+comment3.text=\r\n\ take\ damage\ removes\ d\ hit\ points\ from\ the\ heaths\r\n\ \r\n\ \r\n\ @param\ damage\ -\ damage\ to\ subtrack\ from\ health\r\n
+comment4.params=
+comment4.target=boolean\ isAlive()
+comment4.text=\r\n\ @\ return\ true\ if\ heath\ >\ 0,\ else\ false\r\n\ \r\n\ \r\n
+numComments=5
